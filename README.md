@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @gv3sys
-- 👀 I’m interested in programing, gaming and learning new things 
+- 👋 Hi, I’m @gv3sys, im a 17 yr old developer
+- 👀 I’m interested in programing, gaming and learning new programing languages 
 - 🌱 I’m currently studying my second year in professional training and trying to learn python on my own
