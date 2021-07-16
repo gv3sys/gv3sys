@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gv3sys
+- 👀 I’m interested in programing, gaming and learning new things 
+- 🌱 I’m currently studying my second year in professional training and trying to learn python on my own
