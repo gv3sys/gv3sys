@@ -8,6 +8,8 @@
 - 🔭 Estoy trabajando en [selfbot](https://github.com/gv3sys/Selfbot)
 
 - 🌱 Y estoy aprendiendo **C#, python, js, java, php**
+  
+- 🕹️ Ser libres de copiar codigo de mis repos o hacerle forks, todo esta bajo la gpl3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
