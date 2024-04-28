@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy gv3.sys</h1>
-<h3 align="center">Soy un desarrollador español de 20 años español</h3>
+<h3 align="center">Soy un desarrollador español de 20 años</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gv3sys&label=Profile%20views&color=0e75b6&style=flat" alt="gv3sys" /> </p>
 
